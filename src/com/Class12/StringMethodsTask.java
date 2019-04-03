@@ -39,7 +39,7 @@ public class StringMethodsTask {
 				message="Password is too short";
 			}
 		}else{
-			message="Username and password can not be empty";
+			message="Username and pasword can not be empty";
 		}
 	
 	
